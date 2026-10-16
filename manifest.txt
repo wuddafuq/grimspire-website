@@ -4,7 +4,6 @@
 
 background.png|f93bb98ef4e1610ecad9244c1e44d136
 index.html|a72f2e9c69ebc32a30c4a9d67c03e5b2
-manifest.txt|d41d8cd98f00b204e9800998ecf8427e
 out/production/AccountData.class|acae6b3562eb5d06dadebe6d4db0e8bc
 out/production/AccountManager.class|2fdaf7fb67beafa706a7a4cfb04874a3
 out/production/Alert.class|d21defb1b1c1828ef51ebacdc4c2d882
@@ -260,7 +259,6 @@ out/production/ItemSearch.class|52b88acc72e76a5d9d494ef6c107b7d7
 out/production/Keybinding.class|d5108c83f3cccd4e60a4062d7098043c
 out/production/Loader.class|af554675330f64ac6b56cb8d337463d1
 out/production/MacAddress.class|806cc4769bc9c57c267d631202472441
-out/production/manifest.txt|461c3d2a5af8711bfe0bf9e7bdc007a2
 out/production/Model.class|580cbbc76f3d044dfae03f4fdc40b795
 out/production/ModelHeader.class|41611e80aed8d928ceeb8d772e0e91ca
 out/production/MouseDetection.class|5b2a6e28af538a9f80e054ad47cf3cb5
